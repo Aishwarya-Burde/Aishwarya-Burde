@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Aishwarya Burde
 
-<!--
-**Aishwarya-Burde/Aishwarya-Burde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Data Analyst from India.
 
-Here are some ideas to get you started:
+I’m currently working on [Power Bi (Blink it)]((https://github.com/Aishwarya-Burde/Blinkit-Dataset-Analysis))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning **Data Analytics Course**
+
+I’m looking to collaborate on [Excel (e-Commerce dataset)](https://github.com/Aishwarya-Burde/E-Commerce-Dataset-Analysis)
+
+I’m looking for help with [SQL (HR Dataset)](https://github.com/Aishwarya-Burde/HR-Dataset-SQL-)
+
+All of my projects are available at [https://github.com/Aishwarya-Burde](https://github.com/Aishwarya-Burde)
+
+How to reach me **aishwaryaburde2000@gmail.com**
+
+Know about my experiences [https://drive.google.com/file/d/17VAuVRF7e_FSKvin1MvUNIQwrNvjh4Fh/view?usp=drive_link](https://drive.google.com/file/d/17VAuVRF7e_FSKvin1MvUNIQwrNvjh4Fh/view?usp=drive_link)
+
+Connect with me:
+
+"https://linkedin.com/in/aishwarya-burde" //
+
+
